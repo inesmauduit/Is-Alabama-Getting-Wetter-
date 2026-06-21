@@ -6,8 +6,7 @@
 
 ## Scientific Question
 Has Alabama's wet season (Jan–Mar) precipitation intensity changed over 125 years, 
-and does warmer temperature correlate with heavier rainfall, consistent with the 
-"wet gets wetter" climate theory?
+and does warmer temperature correlate with heavier rainfall?
 
 ## Hypothesis
 We hypothesize that wet season (January–March) precipitation has increased over time, 
